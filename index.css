@@ -1,0 +1,153 @@
+html{
+    scroll-behavior:smooth;
+
+}
+
+
+.first-p{
+    margin-bottom: 230px;
+    line-height: 200%;
+}
+
+#first{
+    margin-top: 56px;
+    text-align: center;
+    min-height: 100px;
+    height: fit-content;
+    
+    font: 1.3rem sans-serif;
+}
+#first-h1{
+    margin-top: 170px;
+    margin-bottom: 40px;
+    font-size: 70px;
+    font-weight :550;
+    font-family :'Times New Roman', Times, serif;
+}
+#first-h2{
+    font-size: 2rem;
+    margin-bottom: 40px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#second-h2{
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight :300;
+    font-family :'Times New Roman', Times, serif; 
+}
+
+#a-1,#a-2{
+    background: #103063;
+    display:inline-block;
+    color: white;
+}
+
+
+#second,#fourth,.footer{
+    background-color: rgb(71, 111, 112);
+    height: auto;
+    text-align: center;
+    padding: 20px 100px;
+    padding-top: 30px;
+    font: 1.3rem sans-serif;
+}
+#third{
+    height: auto;
+    text-align: center;
+    padding: 100px 200px;
+    font: 1.3rem sans-serif;
+}
+
+#fourth{
+    padding: 200px 150px;
+}
+#fifth{
+    padding: 30px 100px;
+    padding-top: 40px;
+    font: 1.3rem sans-serif;
+}
+.second-p{
+    line-height: 150%;
+}
+#second-h2, #second-h3,.second-p,.fourth-h3,.fourth-p{
+    color: white;
+}
+#second-h3{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-family :'Times New Roman', Times, serif;
+}
+
+.second-link{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.second-p2{
+    font-size: smaller;
+}
+.img1{
+    border-radius: 10px;
+    width: 80%;
+    height: 50%;
+}
+.third-h3{
+    font-size: 35px;
+    font-weight :250;
+    font-family :'Times New Roman', Times, serif; 
+}
+
+.third-p{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    line-height: 150%;
+}
+
+.fourth-p{
+    line-height: 150%;
+}
+
+.img2{
+    border-radius: 10px;
+    width: 90%;
+    display: block;
+    height: 50%;
+    position: relative;
+    left: 50px;
+}
+
+.fourth-h3{
+    font-size: 39px;
+  font-family: 'Times New Roman', Times, serif;
+
+
+}
+.fifth-p{
+   font-size: smaller;
+   line-height: 150%;
+}
+
+.fourth-h3,.fifth-h4{
+    margin-bottom: 40px;
+}
+.img3{
+    border-radius: 90px;
+    width: 60%;
+}
+ul{
+    list-style: none;
+    color:white;
+    font: 1em sans-serif;
+}
+li{
+    font-size: 18px;
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 170%;
+}
+
+.li-a{
+    font-size: 12px;
+}
